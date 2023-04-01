@@ -23,11 +23,11 @@ export default function Hiro () {
                 <div className='md:w-3/6 md:p-4'>
                     
                     {/* <img className="rounded-full w-80 h-80" src="/docs/images/examples/image-4@2x.jpg" alt="image description"/> */}
+                    {/* <br></br>
                     <br></br>
-                    <br></br>
-                    <br></br>
+                    <br></br> */}
 
-                <img className='rounded-full w-80 h-90 mb-0' data-aos="flip-right" data-aos-duration="1500" data-aos-offset="200"  src={profile} alt="profile" onLoad={() => setLoaded(false)} />
+                <img className='rounded-full h-auto max-h-80 ' data-aos="flip-right" data-aos-duration="1500" data-aos-offset="200"  src={profile} alt="profile" onLoad={() => setLoaded(false)} />
             </div>
             <div className='md:w-3/6' data-aos="fade-right" data-aos-duration="1000" data-aos-offset="100" >
                 <div className="flex flex-col w-full mt-8">
