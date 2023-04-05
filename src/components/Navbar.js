@@ -1,6 +1,6 @@
 import logo from '../assets/logo.svg';
 import logo1 from '../assets/free-logo.png';
-import resume from "../assets/file_eats.pdf"
+import resume from "../assets/helo.xlsx"
 
 export default function Navbar() {
     return (
