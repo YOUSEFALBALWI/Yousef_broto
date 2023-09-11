@@ -52,10 +52,10 @@ export default function Hiro() {
             <h1 className="text-2xl font-bold">Ehab Hakami</h1>
             <p class="text-xl font-bold text-gray-300">Front-End Developer</p>
             <p className="text-md font-light text-gray-400 ">
-              Enthusiastic and motivated self-learning in Information
-              Technology. Interested in exploring about Computer Network, and
-              Web Development and Mobile Application Development . Now I am
-              looking for more experience in my field.
+              Proficient in the field of mobile app development with over two years of experience.
+             Committed to delivering exceptional performance and achieving success in mobile programming languages. Possess strong skills in researching, developing, 
+             and finding solutions to encountered challenges. I work diligently to continuously enhance my skills. I am passionate about programming languages, their intricacies, 
+             and staying updated with their latest developments. I am always on the lookout for opportunities to improve, develop, and achieve goals.
             </p>
           </div>
           {/* <a href='http://blog.dama.ink' className='mt-2 block'>Go to My Blog <FontAwesomeIcon className='ml-2' icon={faCircleArrowRight}/> </a> */}
